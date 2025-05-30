@@ -1,0 +1,5 @@
+  "AadClientId": "f1e9cb74-406d-4cdc-aaaf-937cc17bb8bd",
+  "AadSecret": "NR38Q~3aI6PWGlur6ywKYRUyvG1ZALUn8WNdxaKB",
+  "AadTenantDomain": "ayumiorg.onmicrosoft.com",
+  "AadTenantId": "6e1f7d7f-b8ff-4d39-8778-45f7ecd815db",
+
